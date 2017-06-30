@@ -5,6 +5,8 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://tickets.oebb.at/*
+// @updateURL    https://raw.githubusercontent.com/mitsuhiko/tickets-oebb-fixes/master/tickets-oebb-fixes.user.js
+// @downloadURL  https://raw.githubusercontent.com/mitsuhiko/tickets-oebb-fixes/master/tickets-oebb-fixes.user.js
 // @grant        none
 // ==/UserScript==
 
